@@ -9,6 +9,8 @@ int main(){
     //std::advance(iterator,2);
     //valores.insert(iterator,69);
 
+    //valores.eraser(--iterator);
+
     for(int i = 1; i<11; i++){
         valores.push_back(i);
     }
